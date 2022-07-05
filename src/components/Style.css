@@ -1,0 +1,175 @@
+.row{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.Logo img{
+    width: 54px;
+}
+.col-11{
+    width: 1569px;
+    height: 1060px;
+    border-radius: 50px;
+    border-bottom-right-radius: 200px;
+    background-image: linear-gradient(to right, #AAAAAA, #242424);
+    padding-bottom: 97px;
+}
+.Right ul{
+   
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 35px;
+    
+}
+.col-1 ul{
+    list-style-type: none;
+}
+.searchButton{
+    width: 167px;
+    height: 51px;
+    border-radius: 10px;
+    background-color: rgb(171, 170, 170);
+    border: none;
+    color: white;
+}
+.searchInput{
+    width: 790px;
+    height: 51px;
+    border-radius: 10px;
+    border: none;
+    margin-right: -116px;
+
+}
+.col-6 img{
+    margin-top: 120px;
+    width: 542px;
+    height: 670px;
+}
+.slider-container ul li img{
+    max-width: 100%;
+    height: auto;
+}
+.h1Page1{
+    margin-top: 260px;
+    font-size: 70px;
+    color: #FFFCFC;
+}
+.page1Text{
+    text-align: start;
+    margin-left: 39px;   
+}
+.page1h4{
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-top: 34px;
+}
+.shoppingButton{
+    border-radius: 23px;
+    width: 266px;
+    height: 60px;
+    margin-top: 147px;
+    margin-left: 73px;
+    border: none;
+}
+.rightBack{
+    width: 66.35px;
+    height: 35.8px;
+    color: white;
+    border-radius: 9.75px;
+    background-image:linear-gradient(#6F7580, #1F2225) ;
+    position: relative;
+    top: 64px;
+    left: 40px;
+    
+}
+.imgPage2 img{
+    width: 411px;
+    height: 411px;
+    border-radius: 20px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+.cardPag2{
+    width: 696px;
+    height: 881px;
+    border-radius: 61.88px;
+    background-color: #323233;
+    margin-left: 122px;
+    padding-bottom: 64px;
+}
+.titlePage2Col6{
+    width: 696px;
+    height: 477.39px;
+    border-radius: 22.97px;
+    background-color: #202024;
+    color: white; 
+    padding-left: 30px;
+    text-align: start;
+    
+}
+.namePriceP2{
+    display: flex;
+    padding-top: 36.89px;
+    
+}
+.starPage2{
+    color: gold;
+    margin-right: 10px;
+
+    
+}
+.nameProduct{
+    font-size: 25.52px;
+    border: 3px;
+}
+.priceProduct{
+    font-size: 28.07px;
+    border: 3px;
+}
+.rating{
+    display: flex;
+    margin-left: 150px;
+}
+.rating p{
+    font-size: 25.12px;
+}
+.ratingCard{
+    display: flex;
+    font-size: 13.59px;
+    color: white;
+    position: relative;
+    left: 40px;
+    top: 29px;
+}
+.lorem{
+    font-size: 20px;
+
+}
+.col-6 .card{
+    width: 284px;
+    height: 329px;
+    border-radius: 22.97px;
+    background-image: linear-gradient(#363941, #3E424B);
+    margin: 20px 0;
+}
+.col-6 .card img{
+    width: 176px;
+    height: 170px;
+    position: relative;
+    bottom: 110px;
+    left: 54px;
+    
+}
+.buttonPage2{
+    width: 41.83px;
+    height: 32.24px;
+    border-radius: 6.43px;
+    background-image: linear-gradient(#6F7580, #1F2225);
+    color: white;
+    z-index: 99;
+    position: relative;
+    bottom: 50px;
+    left: 220px;
+}
